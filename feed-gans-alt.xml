@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+xmlns:media="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:dcterms="https://purl.org/dc/terms"
+xmlns:spotify="https://www.spotify.com/ns/rss"
+xmlns:psc="https://podlove.org/simple-chapters/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+version="2.0">
+	<channel>
+	
+		<title>Schweitzer on Air</title>
+		
+		<link>https://specktulatius.github.io/pups.html</link>
+		
+		<language>de-de</language>
+		
+		<atom:link href="https://specktulatius.github.io/feed-gans-alt.xml" rel="self" type="application/rss+xml"/>
+		
+		<copyright>SMV ASG Erlangen</copyright>
+		
+		<itunes:subtitle>Wir sind das Schulradio "Schweitzer on Air" der SMV des Albert-Schweitzer-Gymnasiums Erlangen.</itunes:subtitle>
+		
+		<itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
+		
+		<itunes:summary>
+			Wir sind das Schulradio „Schweitzer on Air“ der SMV des Albert-Schweitzer-Gymnasiums Erlangen und produzieren jeden Freitag einen kurzen Nachrichtenpodcast und jeden letzten Freitag im Monat eine große Podcastshow, in welcher viele Überraschungen auf Euch warten. Darunter warten auf Euch interessante Interviews mit prominenten Gästen und die beste Unterhaltung.
+		</itunes:summary>
+		
+		<itunes:keywords>erlangen,asg,albert,schule,gymnasium,schweitzer,interview,news,smv,nachrichten,radio,show,witz</itunes:keywords>
+		
+		<description>
+			Wir sind das Schulradio „Schweitzer on Air“ der SMV des Albert-Schweitzer-Gymnasiums Erlangen und produzieren jeden Freitag einen kurzen Nachrichtenpodcast und jeden letzten Freitag im Monat eine große Podcastshow, in welcher viele Überraschungen auf Euch warten. Darunter warten auf Euch interessante Interviews mit prominenten Gästen und die beste Unterhaltung.
+		</description>
+		
+		<itunes:owner>
+			<itunes:name>SMV Albert-Schweitzer-Gymnasium</itunes:name>
+			<itunes:email>schulradio@asg-er.de</itunes:email>
+		</itunes:owner>
+		
+		<itunes:image href="https://specktulatius.github.io/logoUpscale.png"/>
+			
+		<!-- <itunes:image>https://specktulatius.github.io/logo.png</itunes:image> -->
+		
+		<itunes:category text="News"></itunes:category>
+		<itunes:category text="Lifestyle"></itunes:category>
+		<itunes:category text="Entertainment"></itunes:category>
+		
+		<itunes:explicit>false</itunes:explicit>
+		
+		<!--
+		<itunes:complete>no</itunes:complete>
+		
+		<itunes:type>episodic</itunes:type>
+		
+		<spotify:limit recentCount=""/>
+		-->
+		
+		<spotify:countryOfOrigin>de at ch</spotify:countryOfOrigin>
+		
+		<item>
+			
+			<link>https://specktulatius.github.io/pups.html</link>
+			
+			<itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
+			
+			<title>Die große Podcastshow - März 2021</title>
+			
+			<itunes:subtitle>
+				Diesen Freitag ist es endlich soweit. Die erste große Podcastshow von „Schweitzer on Air“ geht auf Sendung. Die beste Unterhaltung. Mit Interviews von Klaus Meine, unserem Oberbürgermeister, einem Spaßtelefon, einem Witz und vielem mehr. Darunter auch noch ein Rätsel, zu welchem ihr uns Einsendungen zukommen lassen könnt und sogar etwas gewinnen könnt. Viel Spaß!
+			</itunes:subtitle>
+			
+			<itunes:summary>
+				
+			</itunes:summary>
+			
+			<guid isPermaLink="false">
+				https://specktulatius.github.io/shows/podcastshow_1.mp3
+			</guid>
+			
+			<pubDate>
+				Fri, 26 Mar 2021 21:00:00 -0100
+			</pubDate>
+			
+			<itunes:image
+			href="https://specktulatius.github.io/logoUpscale.png"/>
+			
+			<itunes:author>SMV ASG Erlangen</itunes:author>
+			
+			<itunes:email>schulradio@asg-er.de</itunes:email>
+			
+			<description>
+				Diesen Freitag ist es endlich soweit. Die erste große Podcastshow von „Schweitzer on Air“ geht auf Sendung. Die beste Unterhaltung. Mit Interviews von Klaus Meine, unserem Oberbürgermeister, einem Spaßtelefon, einem Witz und vielem mehr. Darunter auch noch ein Rätsel, zu welchem ihr uns Einsendungen zukommen lassen könnt und sogar etwas gewinnen könnt. Viel Spaß!
+			</description>
+			
+			<!-- <media:content type="audio/mpeg" url="https://specktulatius.github.io/shows/podcastshow_1.mp3"/> -->
+			
+			<enclosure
+			url="https://specktulatius.github.io/shows/podcastshow_1.mp3" type="audio/mpeg" length="31392304"/>
+			
+			<!--
+			<media:restriction type="country" relationship="allow">
+				de at ch ...
+			</media:restriction>
+			-->
+			
+			<itunes:duration>
+				00:37:56
+			</itunes:duration>
+			
+			<itunes:explicit>false</itunes:explicit>
+			
+			<!--
+			<itunes:image
+			href="https..."/>
+			
+			<dcterms:valid/>
+				start=2015-06-22T09:00+01:00;
+				end=2500-01-01T09:00+01:00;
+			</dcterms:valid>
+			-->
+			
+			<itunes:keywords>erlangen,asg,albert,schule,gymnasium,schweitzer,interview,news,smv,nachrichten,radio,show,witz</itunes:keywords>
+			
+		</item>
+		
+	</channel>
+</rss>

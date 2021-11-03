@@ -1,0 +1,65 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+<channel>
+<title>Schweitzer on Air</title>
+<link>https://specktulatius.github.io/</link>
+<language>de-de</language>
+<atom:link href="https://specktulatius.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+<copyright>ASG-Erlangen_SMV</copyright>
+<itunes:author>ASG-Erlangen_SMV</itunes:author>
+<itunes:summary>
+PODCAST DESCRIPTION
+</itunes:summary>
+<itunes:keywords>
+erlangen,asg,albert,schule,gymnasium,schweitzer,interview,news,smv,nachrichten,radio,show,witz
+</itunes:keywords>
+<description>
+PODCAST DESCRIPTION
+</description>
+<itunes:owner>
+<itunes:name>ASG-Erlangen_SMV</itunes:name>
+<itunes:email>schulradio@asg-er.de</itunes:email>
+</itunes:owner>
+<itunes:image href="https://specktulatius.github.io/Logo.jpg"/>
+<itunes:category text="CATEGORY1"></itunes:category>
+<itunes:category text="CATEGORY2"></itunes:category>
+<itunes:category text="CATEGORY3"></itunes:category>
+<itunes:complete>no</itunes:complete>
+<itunes:type>episodic</itunes:type>
+<spotify:countryOfOrigin>
+de
+at
+ch
+</spotify:countryOfOrigin>
+
+<item>
+<title>Schweitzer News</title>
+<itunes:title>Schweitzer News</itunes:title>
+<itunes:author>ASG-Erlangen_SMV</itunes:author>
+<itunes:subtitle>
+EPISODE SUBTITLE
+</itunes:subtitle>
+<itunes:summary>
+<![CDATA[
+EPISODE DESCRIPTION
+]]>
+</itunes:summary>
+<description>
+<![CDATA[
+EPISODE DESCRIPTION
+]]>
+</description>
+<!-- <itunes:image href="https://OPTIONAL EPISODE IMAGE.jpg"/> -->
+<enclosure url="https://specktulatius.github.io/xxx.mp3" length="LENGTH" type="audio/mpeg"/>
+<itunes:duration>DURATION</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<guid isPermaLink="false">
+https://specktulatius.github.io/xxx.mp3
+</guid>
+<pubDate>xx.xx.2021</pubDate>
+<itunes:explicit>clean</itunes:explicit>
+</item>
+
+</channel>
+</rss>
