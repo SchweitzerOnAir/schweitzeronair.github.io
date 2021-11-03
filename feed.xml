@@ -2,9 +2,9 @@
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
 	<channel>
 	<title>Schweitzer on Air</title>
-	<link>https://specktulatius.github.io/pups.html</link>
+	<link>https://schweitzeronair.github.io/pups.html</link>
 	<language>de-de</language>
-	<atom:link href="https://specktulatius.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+	<atom:link href="https://schweitzeronair.github.io/feed.xml" rel="self" type="application/rss+xml"/>
 	<copyright>Noah Fr&#246;ba</copyright>
 	<itunes:subtitle>Sch&#252;lerradio</itunes:subtitle>
 	<itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
@@ -19,7 +19,7 @@
 	<itunes:name>Noah Fr&#246;ba</itunes:name>
 	<itunes:email>schulradio@asg-er.de</itunes:email>
 	</itunes:owner>
-	<itunes:image href="https://specktulatius.github.io/logoUpscale.png"/>
+	<itunes:image href="https://schweitzeronair.github.io/logoUpscale.png"/>
 	<itunes:category text="Education">
 	</itunes:category>
 	<itunes:category text="News">
@@ -29,105 +29,105 @@
 	<itunes:explicit>no</itunes:explicit>
 
 <item>
-<link>https://specktulatius.github.io/pups.html</link>
+<link>https://schweitzeronair.github.io/pups.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Die gro&#223;e Podcastshow</title>
 <itunes:subtitle>Juli 2021</itunes:subtitle>
 <itunes:summary> <![CDATA[ Wir starten in die Sommerferien… mit Buchempfehlungen, einem Quiz sowie einem Rätsel zum MItmachen und vielen weiteren Überraschungen für Euch!!! Darunter auch Mael und Jonas… ]]> </itunes:summary>
 <description> <![CDATA[ Wir starten in die Sommerferien… mit Buchempfehlungen, einem Quiz sowie einem Rätsel zum MItmachen und vielen weiteren Überraschungen für Euch!!! Darunter auch Mael und Jonas… ]]> </description>
-<enclosure url='https://specktulatius.github.io/shows/podcastshow_5.mp3' length='25616399' type='audio/mpeg'/>
+<enclosure url='https://schweitzeronair.github.io/shows/podcastshow_5.mp3' length='25616399' type='audio/mpeg'/>
 <itunes:duration>1681</itunes:duration>
-<guid isPermaLink='false'>https://specktulatius.github.io/shows/podcastshow_5.mp3'</guid>
+<guid isPermaLink='false'>https://schweitzeronair.github.io/shows/podcastshow_5.mp3'</guid>
 <pubDate>Fri, 30 Jul 2021 21:00:00 -0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
 <item>
-<link>https://specktulatius.github.io/pups.html</link>
+<link>https://schweitzeronair.github.io/pups.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 16.07.21</title>
 <itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Holocaust Zeitzeugin gestorben - Plünderungen in Südafrika - Hubble außer Betrieb - Überflutungen in Deutschland - Fußball EM 2021 - Massensterben an Küste der USA ]]> </itunes:summary>
 <description> <![CDATA[ Holocaust Zeitzeugin gestorben - Plünderungen in Südafrika - Hubble außer Betrieb - Überflutungen in Deutschland - Fußball EM 2021 - Massensterben an Küste der USA ]]> </description>
-<enclosure url='https://specktulatius.github.io/news/news_16.07.21.mp3' length='10991158' type='audio/mpeg'/>
+<enclosure url='https://schweitzeronair.github.io/news/news_16.07.21.mp3' length='10991158' type='audio/mpeg'/>
 <itunes:duration>526</itunes:duration>
-<guid isPermaLink='false'>https://specktulatius.github.io/news/news_16.07.21.mp3'</guid>
+<guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_16.07.21.mp3'</guid>
 <pubDate>Fri, 16 Jul 2021 21:00:00 -0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
 <item>
-<link>https://specktulatius.github.io/pups.html</link>
+<link>https://schweitzeronair.github.io/pups.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 09.07.21</title>
 <itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Waldbrände in Kanada - Fußball EM 2021 - Sternla City Lounge - Busfahrer mit Zivilcourage - begrabene Badewanne ]]> </itunes:summary>
 <description> <![CDATA[ Waldbrände in Kanada - Fußball EM 2021 - Sternla City Lounge - Busfahrer mit Zivilcourage - begrabene Badewanne ]]> </description>
-<enclosure url='https://specktulatius.github.io/news/news_09.07.21.mp3' length='6414811' type='audio/mpeg'/>
+<enclosure url='https://schweitzeronair.github.io/news/news_09.07.21.mp3' length='6414811' type='audio/mpeg'/>
 <itunes:duration>355</itunes:duration>
-<guid isPermaLink='false'>https://specktulatius.github.io/news/news_09.07.21.mp3'</guid>
+<guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_09.07.21.mp3'</guid>
 <pubDate>Fri, 09 Jul 2021 21:00:00 -0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
 <item>
-<link>https://specktulatius.github.io/pups.html</link>
+<link>https://schweitzeronair.github.io/pups.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 02.07.21</title>
 <itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Regionales aus Erlangen - Fußball EM 2021 - Fleisch wird teurer ]]> </itunes:summary>
 <description> <![CDATA[ Regionales aus Erlangen - Fußball EM 2021 - Fleisch wird teurer ]]> </description>
-<enclosure url='https://specktulatius.github.io/news/news_02.07.21.mp3' length='6149433' type='audio/mpeg'/>
+<enclosure url='https://schweitzeronair.github.io/news/news_02.07.21.mp3' length='6149433' type='audio/mpeg'/>
 <itunes:duration>370</itunes:duration>
-<guid isPermaLink='false'>https://specktulatius.github.io/news/news_02.07.21.mp3'</guid>
+<guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_02.07.21.mp3'</guid>
 <pubDate>Fri, 02 Jul 2021 21:00:00 -0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
 <item>
-<link>https://specktulatius.github.io/pups.html</link>
+<link>https://schweitzeronair.github.io/pups.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Die gro&#223;e Podcastshow</title>
 <itunes:subtitle>Juni 2021</itunes:subtitle>
 <itunes:summary> <![CDATA[ Nachdem wir vergangenen Monat mit unserer großen Podcastshow zum Beitrag des Monats gekürt wurden, sind wir auch heute mit der besten Unterhaltung für Euch da. Passend zur EM war Manuel Neuer bei uns zu Gast. Seid gespannt auf eine neue Ausgabe der großen Podcastshow! Schnitt- und Tontechnik: Jan, Michael und Hanna, vielen Dank für Eure unglaubliche Geduld mit uns und den Schnitt der Tonspuren, den keiner so gut beherrscht wie ihr!  Danke auch an unsere Lehrkräfte Frau Greiten und Herrn Heidenreich, die uns zu Hilfe standen. ]]> </itunes:summary>
 <description> <![CDATA[ Nachdem wir vergangenen Monat mit unserer großen Podcastshow zum Beitrag des Monats gekürt wurden, sind wir auch heute mit der besten Unterhaltung für Euch da. Passend zur EM war Manuel Neuer bei uns zu Gast. Seid gespannt auf eine neue Ausgabe der großen Podcastshow! Schnitt- und Tontechnik: Jan, Michael und Hanna, vielen Dank für Eure unglaubliche Geduld mit uns und den Schnitt der Tonspuren, den keiner so gut beherrscht wie ihr!  Danke auch an unsere Lehrkräfte Frau Greiten und Herrn Heidenreich, die uns zu Hilfe standen. ]]> </description>
-<enclosure url='https://specktulatius.github.io/shows/podcastshow_4.mp3' length='18871643' type='audio/mpeg'/>
+<enclosure url='https://schweitzeronair.github.io/shows/podcastshow_4.mp3' length='18871643' type='audio/mpeg'/>
 <itunes:duration>1280</itunes:duration>
-<guid isPermaLink='false'>https://specktulatius.github.io/shows/podcastshow_4.mp3'</guid>
+<guid isPermaLink='false'>https://schweitzeronair.github.io/shows/podcastshow_4.mp3'</guid>
 <pubDate>Fri, 25 Jun 2021 21:00:00 -0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
 <item>
-<link>https://specktulatius.github.io/pups.html</link>
+<link>https://schweitzeronair.github.io/pups.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 18.06.21</title>
 <itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Nahostkonflikt - Ungarn gegen Homosexualität - Schulpause ohne Maske - Betrug beim Führerschein - Fußball EM - ein Huhn pro Pieks ]]> </itunes:summary>
 <description> <![CDATA[ Nahostkonflikt - Ungarn gegen Homosexualität - Schulpause ohne Maske - Betrug beim Führerschein - Fußball EM - ein Huhn pro Pieks ]]> </description>
-<enclosure url='https://specktulatius.github.io/news/news_18.06.21.mp3' length='6107072' type='audio/mpeg'/>
+<enclosure url='https://schweitzeronair.github.io/news/news_18.06.21.mp3' length='6107072' type='audio/mpeg'/>
 <itunes:duration>357</itunes:duration>
-<guid isPermaLink='false'>https://specktulatius.github.io/news/news_18.06.21.mp3'</guid>
+<guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_18.06.21.mp3'</guid>
 <pubDate>Fri, 18 Jun 2021 23:35:00 -0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 	
 <item>
-<link>https://specktulatius.github.io/pups.html</link>
+<link>https://schweitzeronair.github.io/pups.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 11.06.21</title>
 <itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Operation ironside - Urteil für Mladić - Wahlen Sachsen-Anhalt - Klimacamp in Erlangen - Sport - Ratte in Rente ]]> </itunes:summary>
 <description> <![CDATA[ Operation ironside - Urteil für Mladić - Wahlen Sachsen-Anhalt - Klimacamp in Erlangen - Sport - Ratte in Rente ]]> </description>
-<enclosure url='https://specktulatius.github.io/news/news_11.06.21.mp3' length='6015688' type='audio/mpeg'/>
+<enclosure url='https://schweitzeronair.github.io/news/news_11.06.21.mp3' length='6015688' type='audio/mpeg'/>
 <itunes:duration>438</itunes:duration>
-<guid isPermaLink='false'>https://specktulatius.github.io/news/news_11.06.21.mp3'</guid>
+<guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_11.06.21.mp3'</guid>
 <pubDate>Fri, 11 Jun 2021 21:00:00 -0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
 <item>
-<link>https://specktulatius.github.io/pups.html</link>
+<link>https://schweitzeronair.github.io/pups.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Die gro&#223;e Podcastshow</title>
 <itunes:subtitle>Mai 2021</itunes:subtitle>
@@ -149,149 +149,149 @@ Und dann kommt natürlich das große Highlight unserer Podcastshow im Mai:
 Ein Interview mit Bayerns Innenminister Joachim Herrmann, welcher extra dafür uns besuchte und für größte Aufregung in der Schule sorgte.
 
 Was all diese Personen zu erzählen haben und noch viele weitere besonderen Radiomomente hört ihr in unserer dritten großen Podcastshow. Wir wünschen euch viel Vergnügen beim Zuhören! ]]> </description>
-<enclosure url='https://specktulatius.github.io/shows/podcastshow_3.mp3' length='38386336' type='audio/mpeg'/>
+<enclosure url='https://schweitzeronair.github.io/shows/podcastshow_3.mp3' length='38386336' type='audio/mpeg'/>
 <itunes:duration>2363</itunes:duration>
-<guid isPermaLink='false'>https://specktulatius.github.io/shows/podcastshow_3.mp3'</guid>
+<guid isPermaLink='false'>https://schweitzeronair.github.io/shows/podcastshow_3.mp3'</guid>
 <pubDate>Fri, 28 May 2021 21:00:00 -0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
 <item>
-<link>https://specktulatius.github.io/pups.html</link>
+<link>https://schweitzeronair.github.io/pups.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 21.05.21</title>
 <itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Nahostkonflikt - Einwanderung in Ceuta - Der Berg ruft online - Sport - Elon Musk macht Verlust ]]> </itunes:summary>
 <description> <![CDATA[ Nahostkonflikt - Einwanderung in Ceuta - Der Berg ruft online - Sport - Elon Musk macht Verlust ]]> </description>
-<enclosure url='https://specktulatius.github.io/news/news_21.05.21.mp3' length='9116976' type='audio/mpeg'/>
+<enclosure url='https://schweitzeronair.github.io/news/news_21.05.21.mp3' length='9116976' type='audio/mpeg'/>
 <itunes:duration>448</itunes:duration>
-<guid isPermaLink='false'>https://specktulatius.github.io/news/news_21.05.21.mp3'</guid>
+<guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_21.05.21.mp3'</guid>
 <pubDate>Fri, 21 May 2021 21:00:00 -0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
 <item>
-<link>https://specktulatius.github.io/pups.html</link>
+<link>https://schweitzeronair.github.io/pups.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 14.05.21</title>
 <itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Nahostkonflikt Israel & Palästina - Segnungen homosexueller Paare trotz Verbot - der Toy Run Day - Rücktritt DFB-Präsident - Grenzverschiebung in Belgien - Rätselauflösung ]]> </itunes:summary>
 <description> <![CDATA[ Nahostkonflikt Israel & Palästina - Segnungen homosexueller Paare trotz Verbot - der "Toy Run Day" - Rücktritt DFB-Präsident - Grenzverschiebung in Belgien - Rätselauflösung ]]> </description>
-<enclosure url='https://specktulatius.github.io/news/news_14.05.21.mp3' length='6171896' type='audio/mpeg'/>
+<enclosure url='https://schweitzeronair.github.io/news/news_14.05.21.mp3' length='6171896' type='audio/mpeg'/>
 <itunes:duration>406</itunes:duration>
-<guid isPermaLink='false'>https://specktulatius.github.io/news/news_14.05.21.mp3'</guid>
+<guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_14.05.21.mp3'</guid>
 <pubDate>Fri, 14 May 2021 21:00:00 -0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
 <item>
-<link>https://specktulatius.github.io/pups.html</link>
+<link>https://schweitzeronair.github.io/pups.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Die gro&#223;e Podcastshow</title>
 <itunes:subtitle>M&#228;rz 2021</itunes:subtitle>
 <itunes:summary> <![CDATA[ auf euch warten spannende Interviews, darunter Klaus Meine, Frontman der erfolgreichsten deutschen Rockband sowie erlangens Oberbürgermeister, ein Spaßtelefon und die beste Unterhaltung ]]> </itunes:summary>
 <description> <![CDATA[ Diesen Freitag ist es endlich soweit. Die erste große Podcastshow von „Schweitzer on Air“ geht auf Sendung. Die beste Unterhaltung. Mit Interviews von Klaus Meine, unserem Oberbürgermeister, einem Spaßtelefon, einem Witz und vielem mehr. Darunter auch noch ein Rätsel, zu welchem ihr uns Einsendungen zukommen lassen könnt und sogar etwas gewinnen könnt. Viel Spaß! ]]> </description>
-<enclosure url='https://specktulatius.github.io/shows/podcastshow_1.1.mp3' length='31396616' type='audio/mpeg'/>
+<enclosure url='https://schweitzeronair.github.io/shows/podcastshow_1.1.mp3' length='31396616' type='audio/mpeg'/>
 <itunes:duration>2276</itunes:duration>
-<guid isPermaLink='false'>https://specktulatius.github.io/shows/podcastshow_1.1.mp3'</guid>
+<guid isPermaLink='false'>https://schweitzeronair.github.io/shows/podcastshow_1.1.mp3'</guid>
 <pubDate>Fri, 26 Mar 2021 21:00:00 -0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
 <item>
-<link>https://specktulatius.github.io/pups.html</link>
+<link>https://schweitzeronair.github.io/pups.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Die gro&#223;e Podcastshow</title>
 <itunes:subtitle>April 2021</itunes:subtitle>
 <itunes:summary> <![CDATA[ auf euch warten spannende Interviews, darunter Jendrik, deutschlands Kandidat beim Eurovision Song Contest sowie eine gesunde Reportage, ein Spaßtelefon und die beste Unterhaltung ]]> </itunes:summary>
 <description> <![CDATA[ Diesen Freitag, am letzten Freitag im April, ist es endlich wieder soweit. Die große Podcastshow von „Schweitzer on Air“ ist auf Sendung. Die beste Unterhaltung. Diesmal im Programm ein Interview mit Deutschlands ESC-Kandidaten Jendrik, eine gesunde Reportage, ein Spaßtelefon, Witz und weitere Überraschungen. Darunter neben dem Quiz zwischen einem Lehrer und einem Schüler auch wieder ein Rätsel zum Mitmachen, zu welchem ihr uns Einsendungen zukommen lassen könnt und etwas gewinnen könnt. Viel Spaß! ]]> </description>
-<enclosure url='https://specktulatius.github.io/shows/podcastshow_2.mp3' length='25245277' type='audio/mpeg'/>
+<enclosure url='https://schweitzeronair.github.io/shows/podcastshow_2.mp3' length='25245277' type='audio/mpeg'/>
 <itunes:duration>1813</itunes:duration>
-<guid isPermaLink='false'>https://specktulatius.github.io/shows/podcastshow_2.mp3'</guid>
+<guid isPermaLink='false'>https://schweitzeronair.github.io/shows/podcastshow_2.mp3'</guid>
 <pubDate>Fri, 30 Apr 2021 21:00:00 -0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
 <item>
-<link>https://specktulatius.github.io/pups.html</link>
+<link>https://schweitzeronair.github.io/pups.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 07.05.21</title>
 <itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Klimaschutz ist ein Grundrecht - Bundesminister Horst Seehofer verbietet Ansaar international und deren Teilorganisationen - Festnahme im Fall NSU 2.0 - Polizei bittet um Mithilfe - Notstand in England ]]> </itunes:summary>
 <description> <![CDATA[ Klimaschutz ist ein Grundrecht - Bundesminister Horst Seehofer verbietet Ansaar international und deren Teilorganisationen - Festnahme im Fall NSU 2.0 - Polizei bittet um Mithilfe - Notstand in England ]]> </description>
-<enclosure url='https://specktulatius.github.io/news/news_07.05.21.mp3' length='7124711' type='audio/mpeg'/>
+<enclosure url='https://schweitzeronair.github.io/news/news_07.05.21.mp3' length='7124711' type='audio/mpeg'/>
 <itunes:duration>440</itunes:duration>
-<guid isPermaLink='false'>https://specktulatius.github.io/news/news_07.05.21.mp3'</guid>
+<guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_07.05.21.mp3'</guid>
 <pubDate>Fri, 7 May 2021 21:00:00 -0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
 <item>
-<link>https://specktulatius.github.io/pups.html</link>
+<link>https://schweitzeronair.github.io/pups.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 23.04.21</title>
 <itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Urteil im George-Floyd Prozess - K-Frage in Deutschland - Europäische Super League & Formel 1 - kostenloser Busverkehr in Erlangen - private Schiffsreisen für Giraffen ]]> </itunes:summary>
 <description> <![CDATA[ Urteil im George-Floyd Prozess - K-Frage in Deutschland - Europäische Super League & Formel 1 - kostenloser Busverkehr in Erlangen - private Schiffsreisen für Giraffen ]]> </description>
-<enclosure url='https://specktulatius.github.io/news/news_23.04.21.mp3' length='8543568' type='audio/mpeg'/>
+<enclosure url='https://schweitzeronair.github.io/news/news_23.04.21.mp3' length='8543568' type='audio/mpeg'/>
 <itunes:duration>410</itunes:duration>
-<guid isPermaLink='false'>https://specktulatius.github.io/news/news_23.04.21.mp3'</guid>
+<guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_23.04.21.mp3'</guid>
 <pubDate>Fri, 23 Apr 2021 21:00:00 -0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
 <item>
-<link>https://specktulatius.github.io/pups.html</link>
+<link>https://schweitzeronair.github.io/pups.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 16.04.21</title>
 <itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>				<!-- ????????????? etwas andere Meldung? -->
 <itunes:summary> <![CDATA[ Proteste in Amerika - der Nordirlandkonflikt - Kanzlerfrage - 72 jähriger wehrt sich gegen Maskenpflicht - "Finderlohn" für längstes Kaninchen der Welt ]]> </itunes:summary>
 <description> <![CDATA[ Proteste in Amerika - der Nordirlandkonflikt - Kanzlerfrage - 72 jähriger wehrt sich gegen Maskenpflicht - "Finderlohn" für längstes Kaninchen der Welt ]]> </description>
-<enclosure url='https://specktulatius.github.io/news/news_16.04.21.mp3' length='6951208' type='audio/mpeg'/>
+<enclosure url='https://schweitzeronair.github.io/news/news_16.04.21.mp3' length='6951208' type='audio/mpeg'/>
 <itunes:duration>449</itunes:duration>
-<guid isPermaLink='false'>https://specktulatius.github.io/news/news_16.04.21.mp3'</guid>
+<guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_16.04.21.mp3'</guid>
 <pubDate>Fri, 16 Apr 2021 21:00:00 -0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
 <item>
-<link>https://specktulatius.github.io/pups.html</link>
+<link>https://schweitzeronair.github.io/pups.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 19.03.21</title>
 <itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Saint Patrick´s Day - Aufruhr um AstraZeneca Impfstoff - Landtagswahlen Baden-Württemberg und Rheinland-Pfalz - Fahrradstadt Erlangen - neuer Rekord mit Händen und Füßen ]]> </itunes:summary>
 <description> <![CDATA[ Saint Patrick´s Day - Aufruhr um AstraZeneca Impfstoff - Landtagswahlen Baden-Württemberg und Rheinland-Pfalz - Fahrradstadt Erlangen - neuer Rekord mit Händen und Füßen ]]> </description>
-<enclosure url='https://specktulatius.github.io/news/news_19.03.21.mp3' length='8538319' type='audio/mpeg'/>
+<enclosure url='https://schweitzeronair.github.io/news/news_19.03.21.mp3' length='8538319' type='audio/mpeg'/>
 <itunes:duration>564</itunes:duration>
-<guid isPermaLink='false'>https://specktulatius.github.io/news/news_19.03.21.mp3'</guid>
+<guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_19.03.21.mp3'</guid>
 <pubDate>Fri, 19 Mar 2021 21:00:00 -0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
 <item>
-<link>https://specktulatius.github.io/pups.html</link>
+<link>https://schweitzeronair.github.io/pups.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 12.03.21</title>
 <itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
 <itunes:summary> <![CDATA[ internationaler Frauentag - Maskenaffäre - Interview mit Harry und Megan - Tourismusshopping Erlangen - Skisprung WM & Ausstieg Jogi Löw - Bidens Hunde müssen weißes Haus verlassen ]]> </itunes:summary>
 <description> <![CDATA[ internationaler Frauentag - Maskenaffäre - Interview mit Harry und Megan - Tourismusshopping Erlangen - Skisprung WM & Ausstieg Jogi Löw - Bidens Hunde müssen weißes Haus verlassen ]]> </description>
-<enclosure url='https://specktulatius.github.io/news/news_12.03.21.mp3' length='7871841' type='audio/mpeg'/>
+<enclosure url='https://schweitzeronair.github.io/news/news_12.03.21.mp3' length='7871841' type='audio/mpeg'/>
 <itunes:duration>505</itunes:duration>
-<guid isPermaLink='false'>https://specktulatius.github.io/news/news_12.03.21.mp3'</guid>
+<guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_12.03.21.mp3'</guid>
 <pubDate>Fri, 12 Mar 2021 21:00:00 -0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
 <item>
-<link>https://specktulatius.github.io/pups.html</link>
+<link>https://schweitzeronair.github.io/pups.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 05.03.21</title>
 <itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Corona-Lockerungen in Bayern - Einführung von Lobbyregistern - Verfassungsschutz und AFD - französischer Ex-Präsident zur Haft verurteilt - kein Taschenrechner am Steuer ]]> </itunes:summary>
 <description> <![CDATA[ Corona-Lockerungen in Bayern - Einführung von Lobbyregistern - Verfassungsschutz und AFD - französischer Ex-Präsident zur Haft verurteilt - kein Taschenrechner am Steuer ]]> </description>
-<enclosure url='https://specktulatius.github.io/news/news_05.03.21.mp3' length='4429366' type='audio/mpeg'/>
+<enclosure url='https://schweitzeronair.github.io/news/news_05.03.21.mp3' length='4429366' type='audio/mpeg'/>
 <itunes:duration>294</itunes:duration>
-<guid isPermaLink='false'>https://specktulatius.github.io/news/news_05.03.21.mp3'</guid>
+<guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_05.03.21.mp3'</guid>
 <pubDate>Fri, 5 Mar 2021 21:00:00 -0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
