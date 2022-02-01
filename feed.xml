@@ -27,6 +27,22 @@
 		</itunes:category>
 	</itunes:category>
 	<itunes:explicit>no</itunes:explicit>
+	
+<item>
+<link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
+<itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
+<title>Die gro&#223;e Podcastshow</title>
+<itunes:subtitle>Januar 2022</itunes:subtitle>
+<itunes:summary> <![CDATA[ Wir melden uns wieder mit einer großen Podcastshow, der ersten im neuen Jahr! Wir hoffen ihr habt viel Spaß beim Hören, es warten auf euch: Eine Reportage über Gewalt an Schiedsrichtern, Witze vom Pausenhof und natürlich auch eine neue Quizrunde! Dazu noch ein Interview mit einem Skispringer und einer unserer LehrerInnen, bei dem man spannende neue Dinge erfährt.
+Nochmal viel Spaß beim Hören ]]> </itunes:summary>
+<description> <![CDATA[ Wir melden uns wieder mit einer großen Podcastshow, der ersten im neuen Jahr! Wir hoffen ihr habt viel Spaß beim Hören, es warten auf euch: Eine Reportage über Gewalt an Schiedsrichtern, Witze vom Pausenhof und natürlich auch eine neue Quizrunde! Dazu noch ein Interview mit einem Skispringer und einer unserer LehrerInnen, bei dem man spannende neue Dinge erfährt.
+Nochmal viel Spaß beim Hören ]]> </description>
+<enclosure url='https://schweitzeronair.github.io/shows/PSC8_31.01.2022.mp3' length='28300897' type='audio/mpeg'/>
+<itunes:duration>1282</itunes:duration>
+<guid isPermaLink='false'>https://schweitzeronair.github.io/shows/PSC8_31.01.2022.mp3'</guid>
+<pubDate>Mon, 01 Feb 2022 21:00:00 -0100</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
 
 <item>
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
