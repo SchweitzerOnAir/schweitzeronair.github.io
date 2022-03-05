@@ -39,7 +39,7 @@
 <enclosure url='https://schweitzeronair.github.io/shows/podcastshow_9.mp3' length='96438649' type='audio/mpeg'/>
 <itunes:duration>3650</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/shows/podcastshow_9.mp3'</guid>
-<pubDate>Sat, 5 Mar 2022 18:30:00 CET</pubDate>
+<pubDate>Sat, 5 Mar 2022 18:30:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://schweitzeronair.github.io/artworks/artwork_9.png"/>
 </item>
@@ -54,7 +54,7 @@
 <enclosure url='https://schweitzeronair.github.io/news/news_11.02.22.mp3' length='8760617' type='audio/mpeg'/>
 <itunes:duration>321</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_11.02.22.mp3'</guid>
-<pubDate>Fri, 11 Feb 2022 18:00:00 -0100</pubDate>
+<pubDate>Fri, 11 Feb 2022 18:00:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
@@ -68,7 +68,7 @@
 <enclosure url='https://schweitzeronair.github.io/news/news_04.02.2022.mp3' length='6384910' type='audio/mpeg'/>
 <itunes:duration>252</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_04.02.2022.mp3'</guid>
-<pubDate>Fri, 4 Feb 2022 18:00:00 -0100</pubDate>
+<pubDate>Fri, 4 Feb 2022 18:00:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
@@ -82,7 +82,7 @@
 <enclosure url='https://schweitzeronair.github.io/shows/podcastshow_8.mp3' length='28300897' type='audio/mpeg'/>
 <itunes:duration>1281</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/shows/podcastshow_8.mp3'</guid>
-<pubDate>Fri, 28 Jan 2022 21:00:00 -0100</pubDate>
+<pubDate>Fri, 28 Jan 2022 21:00:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
@@ -96,7 +96,7 @@
 <enclosure url='https://schweitzeronair.github.io/news/news_21.01.22.mp3' length='5149172' type='audio/mpeg'/>
 <itunes:duration>321</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_21.01.22.mp3'</guid>
-<pubDate>Fri, 21 Jan 2022 18:00:00 -0100</pubDate>
+<pubDate>Fri, 21 Jan 2022 18:00:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
@@ -110,7 +110,7 @@
 <enclosure url='https://schweitzeronair.github.io/news/news_14.01.22.mp3' length='8055592' type='audio/mpeg'/>
 <itunes:duration>441</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_14.01.22.mp3'</guid>
-<pubDate>Mon, 14 Jan 2022 18:00:00 -0100</pubDate>
+<pubDate>Fri, 14 Jan 2022 18:00:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
@@ -124,7 +124,7 @@
 <enclosure url='https://schweitzeronair.github.io/shows/podcastshow_7.mp3.mp3' length='100648593' type='audio/mpeg'/>
 <itunes:duration>2516</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/shows/podcastshow_7.mp3.mp3'</guid>
-<pubDate>Fri, 26 Nov 2021 21:00:00 -0100</pubDate>
+<pubDate>Fri, 26 Nov 2021 21:00:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
@@ -138,7 +138,7 @@
 <enclosure url='https://schweitzeronair.github.io/news/news_10.12.21.mp3' length='4256275' type='audio/mpeg'/>
 <itunes:duration>245</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_10.12.21.mp3'</guid>
-<pubDate>Fri, 10 Dec 2021 18:00:00 -0100</pubDate>
+<pubDate>Fri, 10 Dec 2021 18:00:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
@@ -152,7 +152,7 @@
 <enclosure url='https://schweitzeronair.github.io/news/news_19.11.21_v2.mp3' length='5531654' type='audio/mpeg'/>
 <itunes:duration>308</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_19.11.21_v2.mp3'</guid>
-<pubDate>Sat, 20 Nov 2021 18:00:00 -0100</pubDate>
+<pubDate>Sat, 20 Nov 2021 18:00:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
@@ -166,7 +166,7 @@
 <enclosure url='https://schweitzeronair.github.io/news/news_14.11.21_v2.mp3' length='5531654' type='audio/mpeg'/>
 <itunes:duration>308</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_14.11.21_v2.mp3'</guid>
-<pubDate>Sun, 14 Nov 2021 21:00:00 -0100</pubDate>
+<pubDate>Sun, 14 Nov 2021 21:00:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
@@ -180,7 +180,7 @@
 <enclosure url='https://schweitzeronair.github.io/shows/podcastshow_6.mp3' length='24362642' type='audio/mpeg'/>
 <itunes:duration>1847</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/shows/podcastshow_6.mp3'</guid>
-<pubDate>Wed, 3 Nov 2021 21:00:00 -0100</pubDate>
+<pubDate>Wed, 3 Nov 2021 21:00:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
@@ -194,7 +194,7 @@
 <enclosure url='https://schweitzeronair.github.io/news/news_23.10.21.mp3' length='5842060' type='audio/mpeg'/>
 <itunes:duration>319</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_23.10.21.mp3'</guid>
-<pubDate>Sat, 23 Oct 2021 21:00:00 -0100</pubDate>
+<pubDate>Sat, 23 Oct 2021 21:00:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
@@ -208,7 +208,7 @@
 <enclosure url='https://schweitzeronair.github.io/news/news_16.10.21.mp3' length='6273267' type='audio/mpeg'/>
 <itunes:duration>356</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_16.10.21.mp3'</guid>
-<pubDate>Sat, 16 Oct 2021 21:00:00 -0100</pubDate>
+<pubDate>Sat, 16 Oct 2021 21:00:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
@@ -222,7 +222,7 @@
 <enclosure url='https://schweitzeronair.github.io/news/news_09.10.21_v2.mp3' length='4218944' type='audio/mpeg'/>
 <itunes:duration>235</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_09.10.21_v2.mp3'</guid>
-<pubDate>Sat, 9 Oct 2021 21:00:00 -0100</pubDate>
+<pubDate>Sat, 9 Oct 2021 21:00:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
@@ -236,7 +236,7 @@
 <enclosure url='https://schweitzeronair.github.io/shows/podcastshow_5.mp3' length='25616399' type='audio/mpeg'/>
 <itunes:duration>1681</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/shows/podcastshow_5.mp3'</guid>
-<pubDate>Fri, 30 Jul 2021 21:00:00 -0100</pubDate>
+<pubDate>Fri, 30 Jul 2021 21:00:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
@@ -250,7 +250,7 @@
 <enclosure url='https://schweitzeronair.github.io/news/news_16.07.21.mp3' length='10991158' type='audio/mpeg'/>
 <itunes:duration>526</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_16.07.21.mp3'</guid>
-<pubDate>Fri, 16 Jul 2021 21:00:00 -0100</pubDate>
+<pubDate>Fri, 16 Jul 2021 21:00:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
@@ -264,7 +264,7 @@
 <enclosure url='https://schweitzeronair.github.io/news/news_09.07.21.mp3' length='6414811' type='audio/mpeg'/>
 <itunes:duration>355</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_09.07.21.mp3'</guid>
-<pubDate>Fri, 9 Jul 2021 21:00:00 -0100</pubDate>
+<pubDate>Fri, 9 Jul 2021 21:00:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
@@ -278,7 +278,7 @@
 <enclosure url='https://schweitzeronair.github.io/news/news_02.07.21.mp3' length='6149433' type='audio/mpeg'/>
 <itunes:duration>370</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_02.07.21.mp3'</guid>
-<pubDate>Fri, 2 Jul 2021 21:00:00 -0100</pubDate>
+<pubDate>Fri, 2 Jul 2021 21:00:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
@@ -292,7 +292,7 @@
 <enclosure url='https://schweitzeronair.github.io/shows/podcastshow_4.mp3' length='18871643' type='audio/mpeg'/>
 <itunes:duration>1280</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/shows/podcastshow_4.mp3'</guid>
-<pubDate>Fri, 25 Jun 2021 21:00:00 -0100</pubDate>
+<pubDate>Fri, 25 Jun 2021 21:00:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
@@ -306,7 +306,7 @@
 <enclosure url='https://schweitzeronair.github.io/news/news_18.06.21.mp3' length='6107072' type='audio/mpeg'/>
 <itunes:duration>357</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_18.06.21.mp3'</guid>
-<pubDate>Fri, 18 Jun 2021 23:35:00 -0100</pubDate>
+<pubDate>Fri, 18 Jun 2021 23:35:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 	
@@ -320,7 +320,7 @@
 <enclosure url='https://schweitzeronair.github.io/news/news_11.06.21.mp3' length='6015688' type='audio/mpeg'/>
 <itunes:duration>438</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_11.06.21.mp3'</guid>
-<pubDate>Fri, 11 Jun 2021 21:00:00 -0100</pubDate>
+<pubDate>Fri, 11 Jun 2021 21:00:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
@@ -350,7 +350,7 @@ Was all diese Personen zu erzählen haben und noch viele weitere besonderen Radi
 <enclosure url='https://schweitzeronair.github.io/shows/podcastshow_3.mp3' length='38386336' type='audio/mpeg'/>
 <itunes:duration>2363</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/shows/podcastshow_3.mp3'</guid>
-<pubDate>Fri, 28 May 2021 21:00:00 -0100</pubDate>
+<pubDate>Fri, 28 May 2021 21:00:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
@@ -364,7 +364,7 @@ Was all diese Personen zu erzählen haben und noch viele weitere besonderen Radi
 <enclosure url='https://schweitzeronair.github.io/news/news_21.05.21.mp3' length='9116976' type='audio/mpeg'/>
 <itunes:duration>448</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_21.05.21.mp3'</guid>
-<pubDate>Fri, 21 May 2021 21:00:00 -0100</pubDate>
+<pubDate>Fri, 21 May 2021 21:00:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
@@ -378,7 +378,7 @@ Was all diese Personen zu erzählen haben und noch viele weitere besonderen Radi
 <enclosure url='https://schweitzeronair.github.io/news/news_14.05.21.mp3' length='6171896' type='audio/mpeg'/>
 <itunes:duration>406</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_14.05.21.mp3'</guid>
-<pubDate>Fri, 14 May 2021 21:00:00 -0100</pubDate>
+<pubDate>Fri, 14 May 2021 21:00:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
@@ -392,7 +392,7 @@ Was all diese Personen zu erzählen haben und noch viele weitere besonderen Radi
 <enclosure url='https://schweitzeronair.github.io/shows/podcastshow_1.1.mp3' length='31396616' type='audio/mpeg'/>
 <itunes:duration>2276</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/shows/podcastshow_1.1.mp3'</guid>
-<pubDate>Fri, 26 Mar 2021 21:00:00 -0100</pubDate>
+<pubDate>Fri, 26 Mar 2021 21:00:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
@@ -406,7 +406,7 @@ Was all diese Personen zu erzählen haben und noch viele weitere besonderen Radi
 <enclosure url='https://schweitzeronair.github.io/shows/podcastshow_2.mp3' length='25245277' type='audio/mpeg'/>
 <itunes:duration>1813</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/shows/podcastshow_2.mp3'</guid>
-<pubDate>Fri, 30 Apr 2021 21:00:00 -0100</pubDate>
+<pubDate>Fri, 30 Apr 2021 21:00:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
@@ -420,7 +420,7 @@ Was all diese Personen zu erzählen haben und noch viele weitere besonderen Radi
 <enclosure url='https://schweitzeronair.github.io/news/news_07.05.21.mp3' length='7124711' type='audio/mpeg'/>
 <itunes:duration>440</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_07.05.21.mp3'</guid>
-<pubDate>Fri, 7 May 2021 21:00:00 -0100</pubDate>
+<pubDate>Fri, 7 May 2021 21:00:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
@@ -434,7 +434,7 @@ Was all diese Personen zu erzählen haben und noch viele weitere besonderen Radi
 <enclosure url='https://schweitzeronair.github.io/news/news_23.04.21.mp3' length='8543568' type='audio/mpeg'/>
 <itunes:duration>410</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_23.04.21.mp3'</guid>
-<pubDate>Fri, 23 Apr 2021 21:00:00 -0100</pubDate>
+<pubDate>Fri, 23 Apr 2021 21:00:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
@@ -448,7 +448,7 @@ Was all diese Personen zu erzählen haben und noch viele weitere besonderen Radi
 <enclosure url='https://schweitzeronair.github.io/news/news_16.04.21.mp3' length='6951208' type='audio/mpeg'/>
 <itunes:duration>449</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_16.04.21.mp3'</guid>
-<pubDate>Fri, 16 Apr 2021 21:00:00 -0100</pubDate>
+<pubDate>Fri, 16 Apr 2021 21:00:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
@@ -462,7 +462,7 @@ Was all diese Personen zu erzählen haben und noch viele weitere besonderen Radi
 <enclosure url='https://schweitzeronair.github.io/news/news_19.03.21.mp3' length='8538319' type='audio/mpeg'/>
 <itunes:duration>564</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_19.03.21.mp3'</guid>
-<pubDate>Fri, 19 Mar 2021 21:00:00 -0100</pubDate>
+<pubDate>Fri, 19 Mar 2021 21:00:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
@@ -476,7 +476,7 @@ Was all diese Personen zu erzählen haben und noch viele weitere besonderen Radi
 <enclosure url='https://schweitzeronair.github.io/news/news_12.03.21.mp3' length='7871841' type='audio/mpeg'/>
 <itunes:duration>505</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_12.03.21.mp3'</guid>
-<pubDate>Fri, 12 Mar 2021 21:00:00 -0100</pubDate>
+<pubDate>Fri, 12 Mar 2021 21:00:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
@@ -490,7 +490,7 @@ Was all diese Personen zu erzählen haben und noch viele weitere besonderen Radi
 <enclosure url='https://schweitzeronair.github.io/news/news_05.03.21.mp3' length='4429366' type='audio/mpeg'/>
 <itunes:duration>294</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_05.03.21.mp3'</guid>
-<pubDate>Fri, 5 Mar 2021 21:00:00 -0100</pubDate>
+<pubDate>Fri, 5 Mar 2021 21:00:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
