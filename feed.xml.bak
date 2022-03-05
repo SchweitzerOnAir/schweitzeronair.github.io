@@ -20,12 +20,9 @@
 	<itunes:email>schulradio@asg-er.de</itunes:email>
 	</itunes:owner>
 	<itunes:image href="https://schweitzeronair.github.io/logoUpscale.png"/>
-	<itunes:category text="Education">
-	</itunes:category>
-	<itunes:category text="News &amp; Politics">
-	</itunes:category>
-	<itunes:category text="Society &amp; Culture">
-	</itunes:category>
+	<itunes:category text="Education"></itunes:category>
+	<itunes:category text="News & Politics"></itunes:category>
+	<itunes:category text="Society & Culture"></itunes:category>
 	<itunes:explicit>no</itunes:explicit>
 
 
