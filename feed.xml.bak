@@ -39,7 +39,7 @@
 <enclosure url='https://schweitzeronair.github.io/shows/podcastshow_9.mp3' length='96438649' type='audio/mpeg'/>
 <itunes:duration>3650</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/shows/podcastshow_9.mp3'</guid>
-<pubDate>Sat, 5 Mar 2022 18:30:00 -0100</pubDate>
+<pubDate>Sat, 5 Mar 2022 18:30:00 CET</pubDate>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://schweitzeronair.github.io/artworks/artwork_9.png"/>
 </item>
@@ -96,7 +96,7 @@
 <enclosure url='https://schweitzeronair.github.io/news/news_21.01.22.mp3' length='5149172' type='audio/mpeg'/>
 <itunes:duration>321</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_21.01.22.mp3'</guid>
-<pubDate>Sun, 21 Jan 2022 18:00:00 -0100</pubDate>
+<pubDate>Fri, 21 Jan 2022 18:00:00 -0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
@@ -131,14 +131,14 @@
 <item>
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
-<title>Schweitzer News 11.12.2021</title>
+<title>Schweitzer News 10.12.2021</title>
 <itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Theater das etwas andere Weihnachtsmärchen - Formel-1 - Die Merkel Ära geht zu ende - Überreichung des Friedensnobelpreises ]]> </itunes:summary>
 <description> <![CDATA[ Theater das etwas andere Weihnachtsmärchen - Formel-1 - Die Merkel Ära geht zu ende - Überreichung des Friedensnobelpreises ]]> </description>
 <enclosure url='https://schweitzeronair.github.io/news/news_10.12.21.mp3' length='4256275' type='audio/mpeg'/>
 <itunes:duration>245</itunes:duration>
 <guid isPermaLink='false'>https://schweitzeronair.github.io/news/news_10.12.21.mp3'</guid>
-<pubDate>Fry, 11 Dec 2021 18:00:00 -0100</pubDate>
+<pubDate>Fri, 10 Dec 2021 18:00:00 -0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
