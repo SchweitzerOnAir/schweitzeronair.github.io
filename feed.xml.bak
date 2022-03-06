@@ -9,11 +9,11 @@
 	<itunes:subtitle>Sch&#252;lerradio</itunes:subtitle>
 	<itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 	<itunes:summary>
-		Wir sind das Schulradio "Schweitzer on Air" der SMV des Albert-Schweitzer-Gymnasiums Erlangen und produzieren jeden Freitag einen kurzen Nachrichtenpodcast und jeden letzten Freitag im Monat eine gro&#223;e Podcastshow, in welcher viele &#220;berraschungen auf Euch warten. Darunter warten auf Euch interessante Interviews mit prominenten G&#228;sten und die beste Unterhaltung.
+		Wir sind das Schulradio "Schweitzer on Air" der SMV des Albert-Schweitzer-Gymnasiums Erlangen und produzieren jeden Freitag einen kurzen Nachrichtenpodcast und jeden letzten Freitag im Monat eine gro&szlig;e Podcastshow, in welcher viele &Uuml;berraschungen auf Euch warten. Darunter warten auf Euch interessante Interviews mit prominenten G&auml;sten und die beste Unterhaltung.
 	</itunes:summary>
 	<itunes:keywords>sounds</itunes:keywords>
 	<description>
-		Wir sind das Schulradio "Schweitzer on Air" der SMV des Albert-Schweitzer-Gymnasiums Erlangen und produzieren jeden Freitag einen kurzen Nachrichtenpodcast und jeden letzten Freitag im Monat eine gro&#223;e Podcastshow, in welcher viele &#220;berraschungen auf Euch warten. Darunter warten auf Euch interessante Interviews mit prominenten G&#228;sten und die beste Unterhaltung.
+		Wir sind das Schulradio "Schweitzer on Air" der SMV des Albert-Schweitzer-Gymnasiums Erlangen und produzieren jeden Freitag einen kurzen Nachrichtenpodcast und jeden letzten Freitag im Monat eine gro&szlig;e Podcastshow, in welcher viele &Uuml;berraschungen auf Euch warten. Darunter warten auf Euch interessante Interviews mit prominenten G&auml;sten und die beste Unterhaltung.
 	</description>
 	<itunes:owner>
 	<itunes:name>Noah Fr&#246;ba</itunes:name>
@@ -21,21 +21,21 @@
 	</itunes:owner>
 	<itunes:image href="https://schweitzeronair.github.io/logoUpscale.png"/>
 	<itunes:category text="Education"></itunes:category>
-	<itunes:category text="News & Politics"></itunes:category>
-	<itunes:category text="Society & Culture"></itunes:category>
+	<itunes:category text="News &amp; Politics"></itunes:category>
+	<itunes:category text="Society &amp; Culture"></itunes:category>
 	<itunes:explicit>no</itunes:explicit>
 
 
 <item>
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
-<title>Gro&#223;e Podcastshow - Jubiläumsausgabe</title>
-<itunes:subtitle>M&#228;rz 2022</itunes:subtitle>
+<title>Jubil&auml;umsausgabe - Gro&szlig;e Podcastshow</title>
+<itunes:subtitle>M&auml;rz 2022</itunes:subtitle>
 <itunes:summary> <![CDATA[ Eine neue große Podcastshow, in der Stars für Groß und Klein zu Gast sind. Willi wills wissen hat mit Schweitzer on Air von der Schweizer Autobahn aus geskyped und unsere Schülerkorrespondenten reisten quer durch Bayern, um einen bayerischen Revoluzzer zu interviewen. Außerdem gibt es heiße Neuigkeiten aus der ansonsten sehr unterkühlten Jungstoilette im dritten Stock des ASGs. Frau Hüttinger stellt sich unserem „Lehrer gegen Schüler“-Quiz, aber hat sie genug Allgemeinwissen, um gegen einen Zwölftklässler zu gewinnen? ]]> </itunes:summary>
 <description> <![CDATA[ Eine neue große Podcastshow, in der Stars für Groß und Klein zu Gast sind. Willi wills wissen hat mit Schweitzer on Air von der Schweizer Autobahn aus geskyped und unsere Schülerkorrespondenten reisten quer durch Bayern, um einen bayerischen Revoluzzer zu interviewen. Außerdem gibt es heiße Neuigkeiten aus der ansonsten sehr unterkühlten Jungstoilette im dritten Stock des ASGs. Frau Hüttinger stellt sich unserem „Lehrer gegen Schüler“-Quiz, aber hat sie genug Allgemeinwissen, um gegen einen Zwölftklässler zu gewinnen? ]]> </description>
-<enclosure url='https://schweitzeronair.github.io/shows/podcastshow_9.mp3' length='96438649' type='audio/mpeg'/>
+<enclosure url='https://schweitzeronair.github.io/shows/podcastshow_9.1.mp3' length='96438649' type='audio/mpeg'/>
 <itunes:duration>3650</itunes:duration>
-<guid isPermaLink='true'>https://schweitzeronair.github.io/shows/podcastshow_9.mp3'</guid>
+<guid isPermaLink='true'>https://schweitzeronair.github.io/shows/podcastshow_9.1.mp3'</guid>
 <pubDate>Sat, 5 Mar 2022 18:30:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
@@ -71,7 +71,7 @@
 <item>
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
-<title>Die gro&#223;e Podcastshow</title>
+<title>Die gro&szlig;e Podcastshow</title>
 <itunes:subtitle>Januar 2022</itunes:subtitle>
 <itunes:summary> <![CDATA[ Wir melden uns wieder mit einer großen Podcastshow, der ersten im neuen Jahr! Wir hoffen ihr habt viel Spaß beim Hören, es warten auf euch: Eine Reportage über Gewalt an Schiedsrichtern, Witze vom Pausenhof und natürlich auch eine neue Quizrunde! Dazu noch ein Interview mit einem Skispringer und einer unserer LehrerInnen, bei dem man spannende neue Dinge erfährt. Nochmal viel Spaß beim Hören ]]> </itunes:summary>
 <description> <![CDATA[ Wir melden uns wieder mit einer großen Podcastshow, der ersten im neuen Jahr! Wir hoffen ihr habt viel Spaß beim Hören, es warten auf euch: Eine Reportage über Gewalt an Schiedsrichtern, Witze vom Pausenhof und natürlich auch eine neue Quizrunde! Dazu noch ein Interview mit einem Skispringer und einer unserer LehrerInnen, bei dem man spannende neue Dinge erfährt. Nochmal viel Spaß beim Hören ]]> </description>
@@ -113,7 +113,7 @@
 <item>
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
-<title>Die gro&#223;e Podcastshow</title>
+<title>Die gro&szlig;e Podcastshow</title>
 <itunes:subtitle>November 2021</itunes:subtitle>
 <itunes:summary> <![CDATA[ Wir Melden uns mit einer weiteren großen Podcastshow! Auf euch warten eine Spannende Reportage über das Thema Judentum, ein Quiz zwischen Lehrern und Schülern, interessante, wenn auch etwas unnötige Fakten und vieles Mehr! Wir wünschen euch viel Spaß mit einer Weiteren Folge Schweitzer on Air!  ]]> </itunes:summary>
 <description> <![CDATA[ Wir Melden uns mit einer weiteren großen Podcastshow! Auf euch warten eine Spannende Reportage über das Thema Judentum, ein Quiz zwischen Lehrern und Schülern, interessante, wenn auch etwas unnötige Fakten und vieles Mehr! Wir wünschen euch viel Spaß mit einer Weiteren Folge Schweitzer on Air!  ]]> </description>
@@ -169,7 +169,7 @@
 <item>
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
-<title>Die gro&#223;e Podcastshow</title>
+<title>Die gro&szlig;e Podcastshow</title>
 <itunes:subtitle>Oktober 2021</itunes:subtitle>
 <itunes:summary> <![CDATA[ Wir melden uns wieder mit einer großen Podcastshow, der ersten nach der Sommerpause! Wir hoffen ihr habt viel Spaß beim Hören, es warten auf euch: eine Buchvorstellung, eine Reportage über Rechtsextremismus, Witzte vom Pausenhof, der zweite Teil des Paul Maar Interviews und natürlich auch eine neue Quizrunde! Es gibt auch wieder ein Rätsel, bei dem ihr etwas gewinnen könnt, wenn ihr eure Antworten an schulradio@asg-er.de schickt. Nochmal viel Spaß beim Hören ]]> </itunes:summary>
 <description> <![CDATA[ Wir melden uns wieder mit einer großen Podcastshow, der ersten nach der Sommerpause! Wir hoffen ihr habt viel Spaß beim Hören, es warten auf euch: eine Buchvorstellung, eine Reportage über Rechtsextremismus, Witzte vom Pausenhof, der zweite Teil des Paul Maar Interviews und natürlich auch eine neue Quizrunde! Es gibt auch wieder ein Rätsel, bei dem ihr etwas gewinnen könnt, wenn ihr eure Antworten an schulradio@asg-er.de schickt. Nochmal viel Spaß beim Hören ]]> </description>
@@ -225,7 +225,7 @@
 <item>
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
-<title>Die gro&#223;e Podcastshow</title>
+<title>Die gro&szlig;e Podcastshow</title>
 <itunes:subtitle>Juli 2021</itunes:subtitle>
 <itunes:summary> <![CDATA[ Wir starten in die Sommerferien… mit Buchempfehlungen, einem Quiz sowie einem Rätsel zum MItmachen und vielen weiteren Überraschungen für Euch!!! Darunter auch Mael und Jonas… ]]> </itunes:summary>
 <description> <![CDATA[ Wir starten in die Sommerferien… mit Buchempfehlungen, einem Quiz sowie einem Rätsel zum MItmachen und vielen weiteren Überraschungen für Euch!!! Darunter auch Mael und Jonas… ]]> </description>
@@ -281,7 +281,7 @@
 <item>
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
-<title>Die gro&#223;e Podcastshow</title>
+<title>Die gro&szlig;e Podcastshow</title>
 <itunes:subtitle>Juni 2021</itunes:subtitle>
 <itunes:summary> <![CDATA[ Nachdem wir vergangenen Monat mit unserer großen Podcastshow zum Beitrag des Monats gekürt wurden, sind wir auch heute mit der besten Unterhaltung für Euch da. Passend zur EM war Manuel Neuer bei uns zu Gast. Seid gespannt auf eine neue Ausgabe der großen Podcastshow! Schnitt- und Tontechnik: Jan, Michael und Hanna, vielen Dank für Eure unglaubliche Geduld mit uns und den Schnitt der Tonspuren, den keiner so gut beherrscht wie ihr!  Danke auch an unsere Lehrkräfte Frau Greiten und Herrn Heidenreich, die uns zu Hilfe standen. ]]> </itunes:summary>
 <description> <![CDATA[ Nachdem wir vergangenen Monat mit unserer großen Podcastshow zum Beitrag des Monats gekürt wurden, sind wir auch heute mit der besten Unterhaltung für Euch da. Passend zur EM war Manuel Neuer bei uns zu Gast. Seid gespannt auf eine neue Ausgabe der großen Podcastshow! Schnitt- und Tontechnik: Jan, Michael und Hanna, vielen Dank für Eure unglaubliche Geduld mit uns und den Schnitt der Tonspuren, den keiner so gut beherrscht wie ihr!  Danke auch an unsere Lehrkräfte Frau Greiten und Herrn Heidenreich, die uns zu Hilfe standen. ]]> </description>
@@ -323,7 +323,7 @@
 <item>
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
-<title>Die gro&#223;e Podcastshow</title>
+<title>Die gro&szlig;e Podcastshow</title>
 <itunes:subtitle>Mai 2021</itunes:subtitle>
 <itunes:summary> <![CDATA[ „Alle guten Dinge sind 3“. Unsere dritte große Podcastshow ist online! Diesmal mit dabei sind in einem exklusiven Interview Sherif von den Kindernachrichten “logo!” aus dem KiKa sowie eine Reportage über die unterdrückte Minderheit der Uiguren in China mit Berichten der Investigativournalistin Christine Adelhardt, welche uns interessante Information zukommen ließ.
 
@@ -381,8 +381,8 @@ Was all diese Personen zu erzählen haben und noch viele weitere besonderen Radi
 <item>
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
-<title>Die gro&#223;e Podcastshow</title>
-<itunes:subtitle>M&#228;rz 2021</itunes:subtitle>
+<title>Die gro&szlig;e Podcastshow</title>
+<itunes:subtitle>M&auml;rz 2021</itunes:subtitle>
 <itunes:summary> <![CDATA[ auf euch warten spannende Interviews, darunter Klaus Meine, Frontman der erfolgreichsten deutschen Rockband sowie erlangens Oberbürgermeister, ein Spaßtelefon und die beste Unterhaltung ]]> </itunes:summary>
 <description> <![CDATA[ Diesen Freitag ist es endlich soweit. Die erste große Podcastshow von „Schweitzer on Air“ geht auf Sendung. Die beste Unterhaltung. Mit Interviews von Klaus Meine, unserem Oberbürgermeister, einem Spaßtelefon, einem Witz und vielem mehr. Darunter auch noch ein Rätsel, zu welchem ihr uns Einsendungen zukommen lassen könnt und sogar etwas gewinnen könnt. Viel Spaß! ]]> </description>
 <enclosure url='https://schweitzeronair.github.io/shows/podcastshow_1.1.mp3' length='31396616' type='audio/mpeg'/>
@@ -395,7 +395,7 @@ Was all diese Personen zu erzählen haben und noch viele weitere besonderen Radi
 <item>
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
-<title>Die gro&#223;e Podcastshow</title>
+<title>Die gro&szlig;e Podcastshow</title>
 <itunes:subtitle>April 2021</itunes:subtitle>
 <itunes:summary> <![CDATA[ auf euch warten spannende Interviews, darunter Jendrik, deutschlands Kandidat beim Eurovision Song Contest sowie eine gesunde Reportage, ein Spaßtelefon und die beste Unterhaltung ]]> </itunes:summary>
 <description> <![CDATA[ Diesen Freitag, am letzten Freitag im April, ist es endlich wieder soweit. Die große Podcastshow von „Schweitzer on Air“ ist auf Sendung. Die beste Unterhaltung. Diesmal im Programm ein Interview mit Deutschlands ESC-Kandidaten Jendrik, eine gesunde Reportage, ein Spaßtelefon, Witz und weitere Überraschungen. Darunter neben dem Quiz zwischen einem Lehrer und einem Schüler auch wieder ein Rätsel zum Mitmachen, zu welchem ihr uns Einsendungen zukommen lassen könnt und etwas gewinnen könnt. Viel Spaß! ]]> </description>

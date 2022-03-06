@@ -9,11 +9,11 @@
 	<itunes:subtitle>Sch&#252;lerradio</itunes:subtitle>
 	<itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 	<itunes:summary>
-		Wir sind das Schulradio "Schweitzer on Air" der SMV des Albert-Schweitzer-Gymnasiums Erlangen und produzieren jeden Freitag einen kurzen Nachrichtenpodcast und jeden letzten Freitag im Monat eine gro&#223;e Podcastshow, in welcher viele &#220;berraschungen auf Euch warten. Darunter warten auf Euch interessante Interviews mit prominenten G&#228;sten und die beste Unterhaltung.
+		Wir sind das Schulradio "Schweitzer on Air" der SMV des Albert-Schweitzer-Gymnasiums Erlangen und produzieren jeden Freitag einen kurzen Nachrichtenpodcast und jeden letzten Freitag im Monat eine gro&szlig;e Podcastshow, in welcher viele &Uuml;berraschungen auf Euch warten. Darunter warten auf Euch interessante Interviews mit prominenten G&auml;sten und die beste Unterhaltung.
 	</itunes:summary>
 	<itunes:keywords>sounds</itunes:keywords>
 	<description>
-		Wir sind das Schulradio "Schweitzer on Air" der SMV des Albert-Schweitzer-Gymnasiums Erlangen und produzieren jeden Freitag einen kurzen Nachrichtenpodcast und jeden letzten Freitag im Monat eine gro&#223;e Podcastshow, in welcher viele &#220;berraschungen auf Euch warten. Darunter warten auf Euch interessante Interviews mit prominenten G&#228;sten und die beste Unterhaltung.
+		Wir sind das Schulradio "Schweitzer on Air" der SMV des Albert-Schweitzer-Gymnasiums Erlangen und produzieren jeden Freitag einen kurzen Nachrichtenpodcast und jeden letzten Freitag im Monat eine gro&szlig;e Podcastshow, in welcher viele &Uuml;berraschungen auf Euch warten. Darunter warten auf Euch interessante Interviews mit prominenten G&auml;sten und die beste Unterhaltung.
 	</description>
 	<itunes:owner>
 	<itunes:name>Noah Fr&#246;ba</itunes:name>
@@ -29,13 +29,13 @@
 <item>
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
-<title>Gro&#223;e Podcastshow - Jubiläumsausgabe</title>
-<itunes:subtitle>M&#228;rz 2022</itunes:subtitle>
+<title>Jubil&auml;umsausgabe - Gro&szlig;e Podcastshow</title>
+<itunes:subtitle>M&auml;rz 2022</itunes:subtitle>
 <itunes:summary> <![CDATA[ Eine neue große Podcastshow, in der Stars für Groß und Klein zu Gast sind. Willi wills wissen hat mit Schweitzer on Air von der Schweizer Autobahn aus geskyped und unsere Schülerkorrespondenten reisten quer durch Bayern, um einen bayerischen Revoluzzer zu interviewen. Außerdem gibt es heiße Neuigkeiten aus der ansonsten sehr unterkühlten Jungstoilette im dritten Stock des ASGs. Frau Hüttinger stellt sich unserem „Lehrer gegen Schüler“-Quiz, aber hat sie genug Allgemeinwissen, um gegen einen Zwölftklässler zu gewinnen? ]]> </itunes:summary>
 <description> <![CDATA[ Eine neue große Podcastshow, in der Stars für Groß und Klein zu Gast sind. Willi wills wissen hat mit Schweitzer on Air von der Schweizer Autobahn aus geskyped und unsere Schülerkorrespondenten reisten quer durch Bayern, um einen bayerischen Revoluzzer zu interviewen. Außerdem gibt es heiße Neuigkeiten aus der ansonsten sehr unterkühlten Jungstoilette im dritten Stock des ASGs. Frau Hüttinger stellt sich unserem „Lehrer gegen Schüler“-Quiz, aber hat sie genug Allgemeinwissen, um gegen einen Zwölftklässler zu gewinnen? ]]> </description>
-<enclosure url='https://schweitzeronair.github.io/shows/podcastshow_9.mp3' length='96438649' type='audio/mpeg'/>
+<enclosure url='https://schweitzeronair.github.io/shows/podcastshow_9.1.mp3' length='96438649' type='audio/mpeg'/>
 <itunes:duration>3650</itunes:duration>
-<guid isPermaLink='true'>https://schweitzeronair.github.io/shows/podcastshow_9.mp3'</guid>
+<guid isPermaLink='true'>https://schweitzeronair.github.io/shows/podcastshow_9.1.mp3'</guid>
 <pubDate>Sat, 5 Mar 2022 18:30:00 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
@@ -44,7 +44,7 @@
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 11.02.2022</title>
-<itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
+<itunes:subtitle>immer bestens informiert - von Sch&uuml;lern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Ukraine Konflikt - Olympia Slalomlauf - Bergkirchweih - Hausabriss und Aufbau - keine Überlastung in Krankenhäusern ]]> </itunes:summary>
 <description> <![CDATA[ Ukraine Konflikt - Olympia Slalomlauf - Bergkirchweih - Hausabriss und Aufbau - keine Überlastung in Krankenhäusern ]]> </description>
 <enclosure url='https://schweitzeronair.github.io/news/news_11.02.22.mp3' length='8760617' type='audio/mpeg'/>
@@ -58,7 +58,7 @@
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 04.02.2022</title>
-<itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
+<itunes:subtitle>immer bestens informiert - von Sch&uuml;lern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Ukraine Konflikt - Reisepass mit Comic-Figuren - Dampfwolke über Erlangen - Coronafälle im deutschen Olympia Team ]]> </itunes:summary>
 <description> <![CDATA[ Ukraine Konflikt - Reisepass mit Comic-Figuren - Dampfwolke über Erlangen - Coronafälle im deutschen Olympia Team ]]> </description>
 <enclosure url='https://schweitzeronair.github.io/news/news_04.02.2022.mp3' length='6384910' type='audio/mpeg'/>
@@ -71,7 +71,7 @@
 <item>
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
-<title>Die gro&#223;e Podcastshow</title>
+<title>Die gro&szlig;e Podcastshow</title>
 <itunes:subtitle>Januar 2022</itunes:subtitle>
 <itunes:summary> <![CDATA[ Wir melden uns wieder mit einer großen Podcastshow, der ersten im neuen Jahr! Wir hoffen ihr habt viel Spaß beim Hören, es warten auf euch: Eine Reportage über Gewalt an Schiedsrichtern, Witze vom Pausenhof und natürlich auch eine neue Quizrunde! Dazu noch ein Interview mit einem Skispringer und einer unserer LehrerInnen, bei dem man spannende neue Dinge erfährt. Nochmal viel Spaß beim Hören ]]> </itunes:summary>
 <description> <![CDATA[ Wir melden uns wieder mit einer großen Podcastshow, der ersten im neuen Jahr! Wir hoffen ihr habt viel Spaß beim Hören, es warten auf euch: Eine Reportage über Gewalt an Schiedsrichtern, Witze vom Pausenhof und natürlich auch eine neue Quizrunde! Dazu noch ein Interview mit einem Skispringer und einer unserer LehrerInnen, bei dem man spannende neue Dinge erfährt. Nochmal viel Spaß beim Hören ]]> </description>
@@ -86,7 +86,7 @@
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 21.01.2022</title>
-<itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
+<itunes:subtitle>immer bestens informiert - von Sch&uuml;lern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Tiertransporte - 4.Minuten Pizza - Pfannkuchenattacke - Achterbahnfahrt im Handball - Allgemeine Impfpflicht? ]]> </itunes:summary>
 <description> <![CDATA[ Tiertransporte - 4.Minuten Pizza - Pfannkuchenattacke - Achterbahnfahrt im Handball - Allgemeine Impfpflicht? ]]> </description>
 <enclosure url='https://schweitzeronair.github.io/news/news_21.01.22.mp3' length='5149172' type='audio/mpeg'/>
@@ -100,7 +100,7 @@
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 14.01.2022</title>
-<itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
+<itunes:subtitle>immer bestens informiert - von Sch&uuml;lern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Olympische Winterspiele in Peking - Australien Open und Novak Djokovic - Klimaschutz - Kulturbranche Erlangen - Strauße in China - Der Ukraine Konflikt im NATO Gespräche ]]> </itunes:summary>
 <description> <![CDATA[ Olympische Winterspiele in Peking - Australien Open und Novak Djokovic - Klimaschutz - Kulturbranche Erlangen - Strauße in China - Der Ukraine Konflikt im NATO Gespräche ]]> </description>
 <enclosure url='https://schweitzeronair.github.io/news/news_14.01.22.mp3' length='8055592' type='audio/mpeg'/>
@@ -113,7 +113,7 @@
 <item>
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
-<title>Die gro&#223;e Podcastshow</title>
+<title>Die gro&szlig;e Podcastshow</title>
 <itunes:subtitle>November 2021</itunes:subtitle>
 <itunes:summary> <![CDATA[ Wir Melden uns mit einer weiteren großen Podcastshow! Auf euch warten eine Spannende Reportage über das Thema Judentum, ein Quiz zwischen Lehrern und Schülern, interessante, wenn auch etwas unnötige Fakten und vieles Mehr! Wir wünschen euch viel Spaß mit einer Weiteren Folge Schweitzer on Air!  ]]> </itunes:summary>
 <description> <![CDATA[ Wir Melden uns mit einer weiteren großen Podcastshow! Auf euch warten eine Spannende Reportage über das Thema Judentum, ein Quiz zwischen Lehrern und Schülern, interessante, wenn auch etwas unnötige Fakten und vieles Mehr! Wir wünschen euch viel Spaß mit einer Weiteren Folge Schweitzer on Air!  ]]> </description>
@@ -128,7 +128,7 @@
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 10.12.2021</title>
-<itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
+<itunes:subtitle>immer bestens informiert - von Sch&uuml;lern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Theater das etwas andere Weihnachtsmärchen - Formel-1 - Die Merkel Ära geht zu ende - Überreichung des Friedensnobelpreises ]]> </itunes:summary>
 <description> <![CDATA[ Theater das etwas andere Weihnachtsmärchen - Formel-1 - Die Merkel Ära geht zu ende - Überreichung des Friedensnobelpreises ]]> </description>
 <enclosure url='https://schweitzeronair.github.io/news/news_10.12.21.mp3' length='4256275' type='audio/mpeg'/>
@@ -142,7 +142,7 @@
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 19.11.2021</title>
-<itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
+<itunes:subtitle>immer bestens informiert - von Sch&uuml;lern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Flüchtlingsansturm bei Polen - Vorfall in Liverpool - Migranten im LKW - ausgestorbener Vogel kehrt zurück - WM Qualifikation 2022 ]]> </itunes:summary>
 <description> <![CDATA[ Flüchtlingsansturm bei Polen - Vorfall in Liverpool - Migranten im LKW - ausgestorbener Vogel kehrt zurück - WM Qualifikation 2022 ]]> </description>
 <enclosure url='https://schweitzeronair.github.io/news/news_19.11.21_v2.mp3' length='5531654' type='audio/mpeg'/>
@@ -156,7 +156,7 @@
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 14.11.2021</title>
-<itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
+<itunes:subtitle>immer bestens informiert - von Sch&uuml;lern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Das Wasser bis zum Hals - Kurioser Positionswechsel in der Premier League - Corona- Einnahmen für Mainz - Das Comeback von ABBA ]]> </itunes:summary>
 <description> <![CDATA[ Das Wasser bis zum Hals - Kurioser Positionswechsel der Premier league - Squid Game Staffel 2 - Corona- Einnachmen für main - Das Comeback von ABBA ]]> </description>
 <enclosure url='https://schweitzeronair.github.io/news/news_14.11.21_v2.mp3' length='5531654' type='audio/mpeg'/>
@@ -169,7 +169,7 @@
 <item>
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
-<title>Die gro&#223;e Podcastshow</title>
+<title>Die gro&szlig;e Podcastshow</title>
 <itunes:subtitle>Oktober 2021</itunes:subtitle>
 <itunes:summary> <![CDATA[ Wir melden uns wieder mit einer großen Podcastshow, der ersten nach der Sommerpause! Wir hoffen ihr habt viel Spaß beim Hören, es warten auf euch: eine Buchvorstellung, eine Reportage über Rechtsextremismus, Witzte vom Pausenhof, der zweite Teil des Paul Maar Interviews und natürlich auch eine neue Quizrunde! Es gibt auch wieder ein Rätsel, bei dem ihr etwas gewinnen könnt, wenn ihr eure Antworten an schulradio@asg-er.de schickt. Nochmal viel Spaß beim Hören ]]> </itunes:summary>
 <description> <![CDATA[ Wir melden uns wieder mit einer großen Podcastshow, der ersten nach der Sommerpause! Wir hoffen ihr habt viel Spaß beim Hören, es warten auf euch: eine Buchvorstellung, eine Reportage über Rechtsextremismus, Witzte vom Pausenhof, der zweite Teil des Paul Maar Interviews und natürlich auch eine neue Quizrunde! Es gibt auch wieder ein Rätsel, bei dem ihr etwas gewinnen könnt, wenn ihr eure Antworten an schulradio@asg-er.de schickt. Nochmal viel Spaß beim Hören ]]> </description>
@@ -184,7 +184,7 @@
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 23.10.2021</title>
-<itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
+<itunes:subtitle>immer bestens informiert - von Sch&uuml;lern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Taxifahrerschrecken - Insektensterben - Brand im Taubenschlag - US-Sammler versteigert Skelett - Hendrik das Sturmtief ]]> </itunes:summary>
 <description> <![CDATA[ Taxifahrerschrecken - Insektensterben - Brand im Taubenschlag - US-Sammler versteigert Skelett - Hendrik das Sturmtief ]]> </description>
 <enclosure url='https://schweitzeronair.github.io/news/news_23.10.21.mp3' length='5842060' type='audio/mpeg'/>
@@ -198,7 +198,7 @@
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 16.10.2021</title>
-<itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
+<itunes:subtitle>immer bestens informiert - von Sch&uuml;lern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Instergram kriegt eine Pausenfuntktion - Waffenlager gefunden - Sitzordnung im Bundestag - KOTOR Remake ]]> </itunes:summary>
 <description> <![CDATA[ Instergram kriegt eine Pausenfuntktion - Waffenlager gefunden - Sitzordnung im Bundestag - KOTOR Remake ]]> </description>
 <enclosure url='https://schweitzeronair.github.io/news/news_16.10.21.mp3' length='6273267' type='audio/mpeg'/>
@@ -212,7 +212,7 @@
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 09.10.2021</title>
-<itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
+<itunes:subtitle>immer bestens informiert - von Sch&uuml;lern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Fußballer zahlen Coronatests - Lernen lernen - Nobelpreis für zwei Forscher ]]> </itunes:summary>
 <description> <![CDATA[ Fußballer zahlen Coronatests - Serienhit Squidgame - Lernen lernen - Nobelpreis für zwei Forscher ]]> </description>
 <enclosure url='https://schweitzeronair.github.io/news/news_09.10.21_v2.mp3' length='4218944' type='audio/mpeg'/>
@@ -225,7 +225,7 @@
 <item>
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
-<title>Die gro&#223;e Podcastshow</title>
+<title>Die gro&szlig;e Podcastshow</title>
 <itunes:subtitle>Juli 2021</itunes:subtitle>
 <itunes:summary> <![CDATA[ Wir starten in die Sommerferien… mit Buchempfehlungen, einem Quiz sowie einem Rätsel zum MItmachen und vielen weiteren Überraschungen für Euch!!! Darunter auch Mael und Jonas… ]]> </itunes:summary>
 <description> <![CDATA[ Wir starten in die Sommerferien… mit Buchempfehlungen, einem Quiz sowie einem Rätsel zum MItmachen und vielen weiteren Überraschungen für Euch!!! Darunter auch Mael und Jonas… ]]> </description>
@@ -240,7 +240,7 @@
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 16.07.21</title>
-<itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
+<itunes:subtitle>immer bestens informiert - von Sch&uuml;lern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Holocaust Zeitzeugin gestorben - Plünderungen in Südafrika - Hubble außer Betrieb - Überflutungen in Deutschland - Fußball EM 2021 - Massensterben an Küste der USA ]]> </itunes:summary>
 <description> <![CDATA[ Holocaust Zeitzeugin gestorben - Plünderungen in Südafrika - Hubble außer Betrieb - Überflutungen in Deutschland - Fußball EM 2021 - Massensterben an Küste der USA ]]> </description>
 <enclosure url='https://schweitzeronair.github.io/news/news_16.07.21.mp3' length='10991158' type='audio/mpeg'/>
@@ -254,7 +254,7 @@
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 09.07.21</title>
-<itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
+<itunes:subtitle>immer bestens informiert - von Sch&uuml;lern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Waldbrände in Kanada - Fußball EM 2021 - Sternla City Lounge - Busfahrer mit Zivilcourage - begrabene Badewanne ]]> </itunes:summary>
 <description> <![CDATA[ Waldbrände in Kanada - Fußball EM 2021 - Sternla City Lounge - Busfahrer mit Zivilcourage - begrabene Badewanne ]]> </description>
 <enclosure url='https://schweitzeronair.github.io/news/news_09.07.21.mp3' length='6414811' type='audio/mpeg'/>
@@ -268,7 +268,7 @@
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 02.07.21</title>
-<itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
+<itunes:subtitle>immer bestens informiert - von Sch&uuml;lern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Regionales aus Erlangen - Fußball EM 2021 - Fleisch wird teurer ]]> </itunes:summary>
 <description> <![CDATA[ Regionales aus Erlangen - Fußball EM 2021 - Fleisch wird teurer ]]> </description>
 <enclosure url='https://schweitzeronair.github.io/news/news_02.07.21.mp3' length='6149433' type='audio/mpeg'/>
@@ -281,7 +281,7 @@
 <item>
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
-<title>Die gro&#223;e Podcastshow</title>
+<title>Die gro&szlig;e Podcastshow</title>
 <itunes:subtitle>Juni 2021</itunes:subtitle>
 <itunes:summary> <![CDATA[ Nachdem wir vergangenen Monat mit unserer großen Podcastshow zum Beitrag des Monats gekürt wurden, sind wir auch heute mit der besten Unterhaltung für Euch da. Passend zur EM war Manuel Neuer bei uns zu Gast. Seid gespannt auf eine neue Ausgabe der großen Podcastshow! Schnitt- und Tontechnik: Jan, Michael und Hanna, vielen Dank für Eure unglaubliche Geduld mit uns und den Schnitt der Tonspuren, den keiner so gut beherrscht wie ihr!  Danke auch an unsere Lehrkräfte Frau Greiten und Herrn Heidenreich, die uns zu Hilfe standen. ]]> </itunes:summary>
 <description> <![CDATA[ Nachdem wir vergangenen Monat mit unserer großen Podcastshow zum Beitrag des Monats gekürt wurden, sind wir auch heute mit der besten Unterhaltung für Euch da. Passend zur EM war Manuel Neuer bei uns zu Gast. Seid gespannt auf eine neue Ausgabe der großen Podcastshow! Schnitt- und Tontechnik: Jan, Michael und Hanna, vielen Dank für Eure unglaubliche Geduld mit uns und den Schnitt der Tonspuren, den keiner so gut beherrscht wie ihr!  Danke auch an unsere Lehrkräfte Frau Greiten und Herrn Heidenreich, die uns zu Hilfe standen. ]]> </description>
@@ -296,7 +296,7 @@
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 18.06.21</title>
-<itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
+<itunes:subtitle>immer bestens informiert - von Sch&uuml;lern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Nahostkonflikt - Ungarn gegen Homosexualität - Schulpause ohne Maske - Betrug beim Führerschein - Fußball EM - ein Huhn pro Pieks ]]> </itunes:summary>
 <description> <![CDATA[ Nahostkonflikt - Ungarn gegen Homosexualität - Schulpause ohne Maske - Betrug beim Führerschein - Fußball EM - ein Huhn pro Pieks ]]> </description>
 <enclosure url='https://schweitzeronair.github.io/news/news_18.06.21.mp3' length='6107072' type='audio/mpeg'/>
@@ -310,7 +310,7 @@
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 11.06.21</title>
-<itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
+<itunes:subtitle>immer bestens informiert - von Sch&uuml;lern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Operation ironside - Urteil für Mladić - Wahlen Sachsen-Anhalt - Klimacamp in Erlangen - Sport - Ratte in Rente ]]> </itunes:summary>
 <description> <![CDATA[ Operation ironside - Urteil für Mladić - Wahlen Sachsen-Anhalt - Klimacamp in Erlangen - Sport - Ratte in Rente ]]> </description>
 <enclosure url='https://schweitzeronair.github.io/news/news_11.06.21.mp3' length='6015688' type='audio/mpeg'/>
@@ -323,7 +323,7 @@
 <item>
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
-<title>Die gro&#223;e Podcastshow</title>
+<title>Die gro&szlig;e Podcastshow</title>
 <itunes:subtitle>Mai 2021</itunes:subtitle>
 <itunes:summary> <![CDATA[ „Alle guten Dinge sind 3“. Unsere dritte große Podcastshow ist online! Diesmal mit dabei sind in einem exklusiven Interview Sherif von den Kindernachrichten “logo!” aus dem KiKa sowie eine Reportage über die unterdrückte Minderheit der Uiguren in China mit Berichten der Investigativournalistin Christine Adelhardt, welche uns interessante Information zukommen ließ.
 
@@ -354,7 +354,7 @@ Was all diese Personen zu erzählen haben und noch viele weitere besonderen Radi
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 21.05.21</title>
-<itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
+<itunes:subtitle>immer bestens informiert - von Sch&uuml;lern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Nahostkonflikt - Einwanderung in Ceuta - Der Berg ruft online - Sport - Elon Musk macht Verlust ]]> </itunes:summary>
 <description> <![CDATA[ Nahostkonflikt - Einwanderung in Ceuta - Der Berg ruft online - Sport - Elon Musk macht Verlust ]]> </description>
 <enclosure url='https://schweitzeronair.github.io/news/news_21.05.21.mp3' length='9116976' type='audio/mpeg'/>
@@ -368,7 +368,7 @@ Was all diese Personen zu erzählen haben und noch viele weitere besonderen Radi
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 14.05.21</title>
-<itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
+<itunes:subtitle>immer bestens informiert - von Sch&uuml;lern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Nahostkonflikt Israel & Palästina - Segnungen homosexueller Paare trotz Verbot - der Toy Run Day - Rücktritt DFB-Präsident - Grenzverschiebung in Belgien - Rätselauflösung ]]> </itunes:summary>
 <description> <![CDATA[ Nahostkonflikt Israel & Palästina - Segnungen homosexueller Paare trotz Verbot - der "Toy Run Day" - Rücktritt DFB-Präsident - Grenzverschiebung in Belgien - Rätselauflösung ]]> </description>
 <enclosure url='https://schweitzeronair.github.io/news/news_14.05.21.mp3' length='6171896' type='audio/mpeg'/>
@@ -381,8 +381,8 @@ Was all diese Personen zu erzählen haben und noch viele weitere besonderen Radi
 <item>
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
-<title>Die gro&#223;e Podcastshow</title>
-<itunes:subtitle>M&#228;rz 2021</itunes:subtitle>
+<title>Die gro&szlig;e Podcastshow</title>
+<itunes:subtitle>M&auml;rz 2021</itunes:subtitle>
 <itunes:summary> <![CDATA[ auf euch warten spannende Interviews, darunter Klaus Meine, Frontman der erfolgreichsten deutschen Rockband sowie erlangens Oberbürgermeister, ein Spaßtelefon und die beste Unterhaltung ]]> </itunes:summary>
 <description> <![CDATA[ Diesen Freitag ist es endlich soweit. Die erste große Podcastshow von „Schweitzer on Air“ geht auf Sendung. Die beste Unterhaltung. Mit Interviews von Klaus Meine, unserem Oberbürgermeister, einem Spaßtelefon, einem Witz und vielem mehr. Darunter auch noch ein Rätsel, zu welchem ihr uns Einsendungen zukommen lassen könnt und sogar etwas gewinnen könnt. Viel Spaß! ]]> </description>
 <enclosure url='https://schweitzeronair.github.io/shows/podcastshow_1.1.mp3' length='31396616' type='audio/mpeg'/>
@@ -395,7 +395,7 @@ Was all diese Personen zu erzählen haben und noch viele weitere besonderen Radi
 <item>
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
-<title>Die gro&#223;e Podcastshow</title>
+<title>Die gro&szlig;e Podcastshow</title>
 <itunes:subtitle>April 2021</itunes:subtitle>
 <itunes:summary> <![CDATA[ auf euch warten spannende Interviews, darunter Jendrik, deutschlands Kandidat beim Eurovision Song Contest sowie eine gesunde Reportage, ein Spaßtelefon und die beste Unterhaltung ]]> </itunes:summary>
 <description> <![CDATA[ Diesen Freitag, am letzten Freitag im April, ist es endlich wieder soweit. Die große Podcastshow von „Schweitzer on Air“ ist auf Sendung. Die beste Unterhaltung. Diesmal im Programm ein Interview mit Deutschlands ESC-Kandidaten Jendrik, eine gesunde Reportage, ein Spaßtelefon, Witz und weitere Überraschungen. Darunter neben dem Quiz zwischen einem Lehrer und einem Schüler auch wieder ein Rätsel zum Mitmachen, zu welchem ihr uns Einsendungen zukommen lassen könnt und etwas gewinnen könnt. Viel Spaß! ]]> </description>
@@ -410,7 +410,7 @@ Was all diese Personen zu erzählen haben und noch viele weitere besonderen Radi
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 07.05.21</title>
-<itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
+<itunes:subtitle>immer bestens informiert - von Sch&uuml;lern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Klimaschutz ist ein Grundrecht - Bundesminister Horst Seehofer verbietet Ansaar international und deren Teilorganisationen - Festnahme im Fall NSU 2.0 - Polizei bittet um Mithilfe - Notstand in England ]]> </itunes:summary>
 <description> <![CDATA[ Klimaschutz ist ein Grundrecht - Bundesminister Horst Seehofer verbietet Ansaar international und deren Teilorganisationen - Festnahme im Fall NSU 2.0 - Polizei bittet um Mithilfe - Notstand in England ]]> </description>
 <enclosure url='https://schweitzeronair.github.io/news/news_07.05.21.mp3' length='7124711' type='audio/mpeg'/>
@@ -424,7 +424,7 @@ Was all diese Personen zu erzählen haben und noch viele weitere besonderen Radi
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 23.04.21</title>
-<itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
+<itunes:subtitle>immer bestens informiert - von Sch&uuml;lern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Urteil im George-Floyd Prozess - K-Frage in Deutschland - Europäische Super League & Formel 1 - kostenloser Busverkehr in Erlangen - private Schiffsreisen für Giraffen ]]> </itunes:summary>
 <description> <![CDATA[ Urteil im George-Floyd Prozess - K-Frage in Deutschland - Europäische Super League & Formel 1 - kostenloser Busverkehr in Erlangen - private Schiffsreisen für Giraffen ]]> </description>
 <enclosure url='https://schweitzeronair.github.io/news/news_23.04.21.mp3' length='8543568' type='audio/mpeg'/>
@@ -438,7 +438,7 @@ Was all diese Personen zu erzählen haben und noch viele weitere besonderen Radi
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 16.04.21</title>
-<itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>				<!-- ????????????? etwas andere Meldung? -->
+<itunes:subtitle>immer bestens informiert - von Sch&uuml;lern</itunes:subtitle>				<!-- ????????????? etwas andere Meldung? -->
 <itunes:summary> <![CDATA[ Proteste in Amerika - der Nordirlandkonflikt - Kanzlerfrage - 72 jähriger wehrt sich gegen Maskenpflicht - "Finderlohn" für längstes Kaninchen der Welt ]]> </itunes:summary>
 <description> <![CDATA[ Proteste in Amerika - der Nordirlandkonflikt - Kanzlerfrage - 72 jähriger wehrt sich gegen Maskenpflicht - "Finderlohn" für längstes Kaninchen der Welt ]]> </description>
 <enclosure url='https://schweitzeronair.github.io/news/news_16.04.21.mp3' length='6951208' type='audio/mpeg'/>
@@ -452,7 +452,7 @@ Was all diese Personen zu erzählen haben und noch viele weitere besonderen Radi
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 19.03.21</title>
-<itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
+<itunes:subtitle>immer bestens informiert - von Sch&uuml;lern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Saint Patrick´s Day - Aufruhr um AstraZeneca Impfstoff - Landtagswahlen Baden-Württemberg und Rheinland-Pfalz - Fahrradstadt Erlangen - neuer Rekord mit Händen und Füßen ]]> </itunes:summary>
 <description> <![CDATA[ Saint Patrick´s Day - Aufruhr um AstraZeneca Impfstoff - Landtagswahlen Baden-Württemberg und Rheinland-Pfalz - Fahrradstadt Erlangen - neuer Rekord mit Händen und Füßen ]]> </description>
 <enclosure url='https://schweitzeronair.github.io/news/news_19.03.21.mp3' length='8538319' type='audio/mpeg'/>
@@ -466,7 +466,7 @@ Was all diese Personen zu erzählen haben und noch viele weitere besonderen Radi
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 12.03.21</title>
-<itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
+<itunes:subtitle>immer bestens informiert - von Sch&uuml;lern</itunes:subtitle>
 <itunes:summary> <![CDATA[ internationaler Frauentag - Maskenaffäre - Interview mit Harry und Megan - Tourismusshopping Erlangen - Skisprung WM & Ausstieg Jogi Löw - Bidens Hunde müssen weißes Haus verlassen ]]> </itunes:summary>
 <description> <![CDATA[ internationaler Frauentag - Maskenaffäre - Interview mit Harry und Megan - Tourismusshopping Erlangen - Skisprung WM & Ausstieg Jogi Löw - Bidens Hunde müssen weißes Haus verlassen ]]> </description>
 <enclosure url='https://schweitzeronair.github.io/news/news_12.03.21.mp3' length='7871841' type='audio/mpeg'/>
@@ -480,7 +480,7 @@ Was all diese Personen zu erzählen haben und noch viele weitere besonderen Radi
 <link>https://schweitzeronair.github.io/SchweitzerOnAir.html</link>
 <itunes:author>SMV Albert-Schweitzer-Gymnasium</itunes:author>
 <title>Schweitzer News 05.03.21</title>
-<itunes:subtitle>immer bestens informiert - von Schülern</itunes:subtitle>
+<itunes:subtitle>immer bestens informiert - von Sch&uuml;lern</itunes:subtitle>
 <itunes:summary> <![CDATA[ Corona-Lockerungen in Bayern - Einführung von Lobbyregistern - Verfassungsschutz und AFD - französischer Ex-Präsident zur Haft verurteilt - kein Taschenrechner am Steuer ]]> </itunes:summary>
 <description> <![CDATA[ Corona-Lockerungen in Bayern - Einführung von Lobbyregistern - Verfassungsschutz und AFD - französischer Ex-Präsident zur Haft verurteilt - kein Taschenrechner am Steuer ]]> </description>
 <enclosure url='https://schweitzeronair.github.io/news/news_05.03.21.mp3' length='4429366' type='audio/mpeg'/>
