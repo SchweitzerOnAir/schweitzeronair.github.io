@@ -35,7 +35,7 @@
 	<enclosure url='https://schweitzeronair.github.io/shows/podcastshow_10.mp3' length='46375665' type='audio/mpeg'/>
 	<itunes:duration>2544</itunes:duration>
 	<guid isPermaLink='true'>https://schweitzeronair.github.io/shows/podcastshow_10.mp3'</guid>
-	<pubDate>Mon, 18 Apr 2022 12:00:00 +0100</pubDate>	<!-- Montag der 18.04.2022 weil viele kleine Dinge falsch gelaufen sind -->
+	<pubDate>Mon, 18 Apr 2022 12:00:00 +0200</pubDate>	<!-- Montag der 18.04.2022 weil viele kleine Dinge falsch gelaufen sind -->
 	<itunes:explicit>no</itunes:explicit>
 </item>
 
