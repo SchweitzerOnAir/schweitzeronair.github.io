@@ -37,6 +37,7 @@
 	<guid isPermaLink='true'>https://schweitzeronair.github.io/shows/podcastshow_11.mp3'</guid>
 	<pubDate>Sun, 8 May 2022 18:30:00 +0100</pubDate>
 	<itunes:explicit>no</itunes:explicit>
+	<itunes:image href="https://schweitzeronair.github.io/artworks/artwork_9.tiff"/>
 </item>
 
 <item>
@@ -46,10 +47,10 @@
 	<itunes:subtitle>immer bestens informiert - von Sch&#220;lern</itunes:subtitle>
 	<itunes:summary> <![CDATA[ K-Pop - Tennis Turnier - Panzerlieferung - Corona – ASGnews ]]> </itunes:summary>
 	<description> <![CDATA[ K-Pop - Tennis Turnier - Panzerlieferung - Corona – ASGnews ]]> </description>
-	<enclosure url='https://schweitzeronair.github.io/news/news_06.05.22mp3' length='5458229' type='audio/mpeg'/>
+	<enclosure url='https://schweitzeronair.github.io/news/news_06.05.22mp3.mp3' length='5458229' type='audio/mpeg'/>
 	<itunes:duration>278</itunes:duration>
-	<guid isPermaLink='true'>https://schweitzeronair.github.io/news/news_06.05.22mp3'</guid>
-	<pubDate>Fry, 06 May 2022 18:00:00 +0100</pubDate>
+	<guid isPermaLink='true'>https://schweitzeronair.github.io/news/news_06.05.22mp3.mp3'</guid>
+	<pubDate>Fri, 06 May 2022 18:00:00 +0100</pubDate>
 	<itunes:explicit>no</itunes:explicit>
 </item>
 
